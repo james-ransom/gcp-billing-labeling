@@ -42,11 +42,18 @@ MAP = {
 <br>
 <img src='https://i.imgur.com/OIRKK1X.png' width='500px'>
 
-# How 
+# How to run 
+
+First install gcloud and ensure it is setup with your current project. https://cloud.google.com/sdk/docs/install
 
 This script uses a simple config file and a regex to find machines and label them.  Once it is setup you can use it to also identify machines that are unlabeled. 
 
-# When
+
+
+```
+ruby run.rb 
+
+```
 
 The script should be ran in a cronjob.  It uses 50 threads and handles 1000k vms under 30 seconds. 
 
