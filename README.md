@@ -2,7 +2,7 @@
 
 Automatically scan for instances and apply billing labels based on RegEx.
 
-# Why auto label??
+# Why auto label 💸
 
 If you have a large infrastructure it is difficult to go through all instances and label them.  Keep these up to date is time consuming.  Using a simple regex you can ensure all your machines are labeled going forward.  You can put this script in a cronjob to autolabel all your instances. 
 
