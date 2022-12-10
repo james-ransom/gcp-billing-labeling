@@ -1,6 +1,6 @@
 # Auto label your GKE VMs
 
-Automatically scan for instances and apply billing labels.  
+Automatically scan for instances and apply billing labels based on RegEx.  
 
 # Why
 
