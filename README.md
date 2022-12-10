@@ -8,7 +8,7 @@ Currently, you must label all instances to have them shown in the GCP billing se
 
 <img src='https://i.imgur.com/KxnXtja.png'>
 <br>
-<img src='https://i.imgur.com/mPuazks.png'>
+<img src='https://i.imgur.com/OIRKK1X.png'>
 
 # How 
 
