@@ -1,4 +1,4 @@
-# gcp-billing-labeling
+# Auto label your GKE VMs
 
 Automatically scan for instances and apply billing labels.  
 
