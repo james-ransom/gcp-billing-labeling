@@ -1,10 +1,10 @@
 # Auto label your GKE VMs
 
-Automatically scan for instances and apply billing labels based on RegEx.  
+Automatically scan for instances and apply billing labels based on RegEx.
 
 # Why
 
-Currently, you must label all instances to have them shown in the GCP billing section.  With autoscaling instance groups or GKE this is impractical or difficult: VM instances come and go.  After you run this script you can do a group by based on your labels. 
+You might be a legacy system without labels setup, or may want to break down GKE into specific billing labels. 
 
 <img src='https://i.imgur.com/KxnXtja.png'>
 <br>
