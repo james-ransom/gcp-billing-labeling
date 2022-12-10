@@ -4,9 +4,11 @@ Automatically scan for instances and apply billing labels.
 
 # Why
 
-Currently, you must label all instances to have them shown in the GCP billing section.  With autoscaling instance groups or GKE this is impractical or difficult: VM instances come and go.  
+Currently, you must label all instances to have them shown in the GCP billing section.  With autoscaling instance groups or GKE this is impractical or difficult: VM instances come and go.  After you run this script you can do a group by based on your labels. 
 
 <img src='https://i.imgur.com/KxnXtja.png'>
+<br>
+<img src='https://i.imgur.com/mPuazks.png'>
 
 # How 
 
