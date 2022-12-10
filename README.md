@@ -6,9 +6,9 @@ Automatically scan for instances and apply billing labels based on RegEx.
 
 You might be a legacy system without labels setup, or may want to break down GKE into specific billing labels. 
 
-<img src='https://i.imgur.com/KxnXtja.png'>
+<img src='https://i.imgur.com/KxnXtja.png' width='500px'>
 <br>
-<img src='https://i.imgur.com/OIRKK1X.png'>
+<img src='https://i.imgur.com/OIRKK1X.png' width='500px'>
 
 # How 
 
