@@ -4,7 +4,7 @@ Automatically scan for instances and apply billing labels based on RegEx.
 
 # Why
 
-You might be a legacy system without labels setup, or may want to break down GKE into specific billing labels. 
+If you have a large infrastructure it is difficult to go through all instances and label them correctly.  Worse keeping this up to date is impossible.  Using a simple regex you can ensure all your machines are labeled going forward. 
 
 <img src='https://i.imgur.com/KxnXtja.png' width='500px'>
 <br>
